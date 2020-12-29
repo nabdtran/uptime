@@ -8,6 +8,8 @@ sites:
     url: https://www.google.com
   - name: Fiery Campsite
     url: http://fierycamp.site
+  - name: Wikipedia
+    url: https://www.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site

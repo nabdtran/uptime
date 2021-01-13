@@ -22,9 +22,9 @@
     "url": "http://fierycamp.site",
     "icon": "https://favicons.githubusercontent.com/fierycamp.site",
     "slug": "fiery-campsite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1350,
     "timeMonth": 1116,
     "timeYear": 1116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-13": 0
+    }
   },
   {
     "name": "Wikipedia",

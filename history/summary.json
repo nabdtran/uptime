@@ -22,19 +22,19 @@
     "url": "http://fierycamp.site",
     "icon": "https://favicons.githubusercontent.com/fierycamp.site",
     "slug": "fiery-campsite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1116,
-    "timeDay": 2353,
-    "timeWeek": 1350,
-    "timeMonth": 1116,
-    "timeYear": 1116,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "96.29%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1212,
+    "timeDay": 2593,
+    "timeWeek": 1535,
+    "timeMonth": 1212,
+    "timeYear": 1212,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 53
     }
   },
   {

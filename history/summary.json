@@ -10,11 +10,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 90,
-    "timeWeek": 83,
+    "time": 94,
+    "timeDay": 130,
+    "timeWeek": 89,
     "timeMonth": 89,
-    "timeYear": 96,
+    "timeYear": 97,
     "dailyMinutesDown": {
       "2022-04-13": 22
     }
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/fierycamp.site",
     "slug": "fiery-campsite",
     "status": "down",
-    "uptime": "40.89%",
+    "uptime": "40.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "44.91%",
-    "time": 770,
+    "time": 763,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 373,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2022-04-13": 1281,
+      "2022-04-14": 114,
+      "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
       "2022-04-10": 1440,
@@ -238,8 +239,7 @@
       "2021-04-18": 1440,
       "2021-04-17": 1440,
       "2021-04-16": 1440,
-      "2021-04-15": 1440,
-      "2021-04-14": 1440
+      "2021-04-15": 1440
     }
   },
   {
@@ -254,9 +254,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 187,
-    "timeDay": 185,
-    "timeWeek": 154,
-    "timeMonth": 163,
+    "timeDay": 171,
+    "timeWeek": 148,
+    "timeMonth": 160,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2022-03-05": 18,
@@ -276,8 +276,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 356,
-    "timeWeek": 225,
+    "timeDay": 278,
+    "timeWeek": 250,
     "timeMonth": 211,
     "timeYear": 297,
     "dailyMinutesDown": {

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 77,
-    "timeWeek": 90,
-    "timeMonth": 95,
+    "timeDay": 75,
+    "timeWeek": 89,
+    "timeMonth": 96,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2022-04-13": 22
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fierycamp.site.ico",
     "slug": "fiery-campsite",
     "status": "down",
-    "uptime": "23.42%",
+    "uptime": "23.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 255,
+    "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 87,
+      "2023-04-01": 86,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -399,8 +400,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 105,
-    "timeWeek": 266,
-    "timeMonth": 217,
-    "timeYear": 196,
+    "time": 192,
+    "timeDay": 408,
+    "timeWeek": 315,
+    "timeMonth": 220,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.87%",
     "time": 281,
-    "timeDay": 229,
-    "timeWeek": 214,
-    "timeMonth": 265,
+    "timeDay": 224,
+    "timeWeek": 229,
+    "timeMonth": 260,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2023-03-28": 96,
